@@ -1,6 +1,7 @@
 ! Trying to apply what I learnt
 ! I'm actually enjoying learning Fortran
 
+! Tidy some of the code by including related functions in a module. Seems a lot tidyer than using header files.
 module matrix_operations
     implicit none
     private
