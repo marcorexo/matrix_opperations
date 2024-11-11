@@ -1,5 +1,5 @@
-! matrix_calculator.f90
-! A command-line matrix calculator that performs basic operations on 2x2 matrices
+! Trying to apply what I learnt
+! I'm actually enjoying learning Fortran
 
 module matrix_operations
     implicit none
